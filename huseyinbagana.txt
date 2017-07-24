@@ -4,4 +4,4 @@ Merhaba, Ben Hüseyin.<!— laglaglaglaglaglaglaglaglaglaglaglag --><p>iOS Devel
 <p>Objective-C öldü, yaşasın Swift !</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
 Bu ortamlar üzerinde geliştirme yapmaya da bayılıyorum. Benim ile herhangi bir konuda iletişime geçmek isterseniz <!— slightdelayhere--> lütfen rahatça mail atın veya medium üzerinden bana ulaşın.
  <!— longlongcomment s--> <p>Email adresim : <a href="huseyinbagana@yandex.com”>burada.</a></p> 
-<p>Medium Hesabım : <a href="http://medium.com/huseyinbagana”>huseyinbagana</a> Swift Türkiye’yi takip etmeyi unutmayın !!.</p>
+<p>Medium Hesabım : <a href="http://www.medium.com/huseyinbagana”>huseyinbagana</a> Swift Türkiye’yi takip etmeyi unutmayın !!.</p>
