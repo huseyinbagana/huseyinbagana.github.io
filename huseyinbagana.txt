@@ -1,6 +1,7 @@
+<a href=“http://medium.com/swift-t%C3%BCrkiye”>@huseyinbagana</a>
 <span id="a">huseyinbagana@me.com</span>:<span id="b">~</span><span id="c">$</span> cat huseyinbagana.txt<br/><br/>
 Merhaba, Ben Hüseyin.<!— laglaglaglaglaglaglaglaglaglaglaglag --><p>iOS Developer olarak geliştirmeler yapıyorum. </p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
 <p>iOS,tvOS ve watchOS ile alakalı yazıları okumaya bayılıyorum. Aynı zamanda medium.com’da Swift Türkiye’de editörlük yapıp, swift ile alakalı yazılar yazıyorum.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
-<p>Takip etmek isterseniz Medium hesabıma yazılardan ulaşabilirsiniz :</p> <a href=“https://medium.com/swift-t%C3%BCrkiye”>huseyinbagana</a> <p> Swift Türkiye’yi takip etmeyi unutmayın !! Objective-C öldü, yaşasın Swift !</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
+<p>Takip etmek isterseniz Medium hesabıma yazılardan ulaşabilirsiniz :</p>  <p> Swift Türkiye’yi takip etmeyi unutmayın !! Objective-C öldü, yaşasın Swift !</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
 Bu ortamlar üzerinde geliştirme yapmaya da bayılıyorum. Benim ile herhangi bir konuda iletişime geçmek isterseniz <!— slightdelayhere--> lütfen rahatça mail atın veya medium üzerinden bana ulaşın.
  <!— longlongcomment s-->Email adresim : <a href=“mailto:huseyinbagana@yandex.com”>huseyinbagana@yandex.com</a> 
